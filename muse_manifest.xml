@@ -1,0 +1,135 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arturos.com" resolutions="1x" timestamp="1512509037540">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="136508814" ref="portfolio:graphic:about:content:index:web"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:graphic:about:content:index:web"/>
+    <file name="portfolio.css" crc="3917068483" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4017253380" ref="portfolio"/>
+    <file name="graphic.css" crc="68414621" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="477907702" ref="graphic"/>
+    <file name="about.css" crc="314296931" ref="about"/>
+    <file name="nomq_about.css" crc="3816119689" ref="about"/>
+    <file name="content.css" crc="3947851685" ref="content"/>
+    <file name="nomq_content.css" crc="366569995" ref="content"/>
+    <file name="index.css" crc="4114547849" ref="index"/>
+    <file name="nomq_index.css" crc="149025373" ref="index"/>
+    <file name="web.css" crc="68414621" ref="web"/>
+    <file name="nomq_web.css" crc="477907702" ref="web"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:portfolio:content:graphic:web"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:content:graphic:web"/>
+  </folder>
+  <folder name="images">
+    <file name="zhu-generation-why-album-artwork-e1468847255269.jpg" crc="390551329" ref="index:content:graphic:web">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="content" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="vd-logo.svg" crc="4156429341" seo="true" ref="index:about:portfolio:content">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="content" alt=""/>
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="vd logo_poster_.png" crc="486636807" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u338.png" crc="64505084" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u338-a.png" crc="4192852877" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u334.png" crc="3838263084" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u334-a.png" crc="3767725943" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u375.png" crc="4087995451" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u375-a.png" crc="3950349425" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u399.png" crc="428892372" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u399-a.png" crc="530596704" ref="index:about:portfolio:content:graphic:web"/>
+    <file name="u824-6.png" crc="297317735" ref="index"/>
+    <file name="img_7575.jpg" crc="444906186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u824-62.png" crc="509606313" ref="index"/>
+    <file name="zhu-generation-why-album-artwork-e1468847255269-page-fr.jpg" crc="426457612" ref="index:content:graphic:web"/>
+    <file name="u824-63.png" crc="212105091" ref="index"/>
+    <file name="zhu-generation-why-album-artwork-e1468847255269-page-fr2.jpg" crc="4146816977" ref="index"/>
+    <file name="u824-64.png" crc="4232344932" ref="index"/>
+    <file name="img_2122.jpg" crc="300945471" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u1490-4.png" crc="4145918843" ref="about"/>
+    <file name="u755-10.png" crc="221631481" ref="about"/>
+    <file name="u1490-42.png" crc="247768185" ref="about"/>
+    <file name="u755-102.png" crc="4200406103" ref="about"/>
+    <file name="img_2119.jpg" crc="148295623" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover mid224x310.jpg" crc="4207911910" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="final black cat224x291.jpg" crc="4159573749" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="poster final189x293.jpg" crc="42758757" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2119-page-fr.jpg" crc="4056249784" ref="portfolio"/>
+    <file name="magazine cover mid-crop-u1343.jpg" crc="3864691016" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="final black cat301x391.jpg" crc="448584162" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="poster final301x464.jpg" crc="4280537746" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-sms-1.svg" crc="376885913" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="iconmonstr-sms-1_poster_.png" crc="3978466622" ref="content"/>
+    <file name="iconmonstr-phone-8.svg" crc="3961366431" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="iconmonstr-phone-8_poster_.png" crc="4108132365" ref="content"/>
+    <file name="iconmonstr-pinterest-4.svg" crc="223949812" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="iconmonstr-pinterest-4_poster_.png" crc="140153728" ref="content"/>
+    <file name="iconmonstr-youtube-9.svg" crc="4142437691" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="iconmonstr-youtube-9_poster_.png" crc="3960393832" ref="content"/>
+    <file name="iconmonstr-twitter-4.svg" crc="3818860618" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="iconmonstr-twitter-4_poster_.png" crc="3940768171" ref="content"/>
+  </folder>
+  <file name="index.html" crc="4250185155" seo="true" mt="1512508404697" redirect="true"/>
+  <file name="about.html" crc="4206604748" seo="true" mt="1512507848816" redirect="true"/>
+  <file name="portfolio.html" crc="402362557" seo="true" mt="1512507968825" redirect="true"/>
+  <file name="content.html" crc="4166458655" seo="true" mt="1512508505704" redirect="true"/>
+  <file name="graphic.html" crc="4248506173" seo="true" mt="1512504942535" redirect="true"/>
+  <file name="web.html" crc="4065307403" seo="true" mt="1512504942535" redirect="true"/>
+</manifest>
